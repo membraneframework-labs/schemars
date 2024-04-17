@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "This is the struct's title",
-  "description": "This is the struct's description.",
+  "description": "\nThis is the struct's description.\n",
   "type": "object",
   "required": [
     "my_int",
